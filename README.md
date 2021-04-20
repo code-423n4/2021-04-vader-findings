@@ -31,7 +31,7 @@ Because the wardens are submitting issues without seeing each others' submission
 
 Judges have the ultimate discretion in determining severity of issues as well as whether/how issues are considered duplicates. However, sponsor input is a significant criteria.
 
-If you disagree with a finding's severity, **leave the original severity label set by the warden** and add a comment indicating your opinion for the judges to review. It is possible for issues to be considered `0 (Non-critical)`.
+If you disagree with a finding's severity, **leave the original severity label set by the warden and add the label `disagree with severity`** along with comment indicating your opinion for the judges to review. It is possible for issues to be considered `0 (Non-critical)`.
 
 ## Respond to issues
 
