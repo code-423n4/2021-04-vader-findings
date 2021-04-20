@@ -2,7 +2,7 @@
 - 24 ETH main award pot
 - 3 ETH gas optimization award pot
 - 100k VETH bonus pot
-- Starts 2021-04-2 T00:00:00 UTC
+- Starts 2021-04-22 00:00:00 UTC
 - Ends 2021-04-28 23:59:00 UTC
 
 ---
