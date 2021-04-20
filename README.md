@@ -28,7 +28,7 @@ Because the wardens are submitting issues without seeing each others' submission
 2. Close the other duplicate issues and label them with `duplicate`
 3. Mention the primary issue # when closing the issue so that duplicate issues get linked.
 
-## Weight in on severity 
+## Weigh in on severity 
 
 Judges have the ultimate discretion in determining severity of issues as well as whether/how issues are considered duplicates. However, sponsor input is a significant criteria.
 
