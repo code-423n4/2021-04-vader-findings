@@ -1,9 +1,9 @@
-# Sponsorname Contest
-- XXX main award pot
-- XXX gas optimization award pot
-- Findings submitted as issues in this repo [using the C4 form](https://c4-XXXXXXXX.netlify.app/)
-- Starts XXX XXX XX 00:00 UTC
-- Ends XXX XXX XX 23:59 UTC
+# Vader Protocol contest
+- 24 ETH main award pot
+- 3 ETH gas optimization award pot
+- 100k VETH bonus pot
+- Starts 2021-04-2 T00:00:00 UTC
+- Ends 2021-04-28 23:59:00 UTC
 
 ---
 
