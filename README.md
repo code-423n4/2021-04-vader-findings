@@ -30,9 +30,9 @@ Because the wardens are submitting issues without seeing each others' submission
 ## Respond to issues
 
 Label each finding as one of these:
-- `confirmed`, meaning: "Yes, this is a problem and we intend to fix it.")
-- `disputed`, meaning either: "We either not duplicate this issue" or "We disagree that this is an issue at all."
-- `acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
+- `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it.")
+- `sponsor disputed`, meaning either: "We either not duplicate this issue" or "We disagree that this is an issue at all."
+- `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
 
 Add any necessary comments explaining your reasoning for this decision, noting that when the repo is open after all issues are mitigated, wardens will read these comments.
 
@@ -40,4 +40,4 @@ Add any necessary comments explaining your reasoning for this decision, noting t
 
 For each non-duplicate finding which you have confirmed, you will want to mitigate the issue before the contest report is made public.
 
-As part of that process, we ask that you create a pull request in your original repo for each finding and link to the PR in the issue the PR resolves. This will allow for complete transparency in showing the work of mitigating the issues found in the contest.
+As part of that process, we ask that you create a pull request in your original repo for each finding and link to the PR in the issue the PR resolves. This will allow for complete transparency in showing the work of mitigating the issues found in the contest. Rather than closing the issue, mark it as `resolved` with that label.
