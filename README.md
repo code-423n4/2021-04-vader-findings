@@ -27,14 +27,23 @@ Because the wardens are submitting issues without seeing each others' submission
 2. Close the other duplicate issues and label them with `duplicate`
 3. Mention the primary issue # when closing the issue so that duplicate issues get linked.
 
+## Reviewing severity 
+
+Judges have the ultimate discretion in determining severity of issues as well as whether/how issues are considered duplicates. However, sponsor input is a significant criteria.
+
+If you disagree with a finding's severity, **leave the original severity label set by the warden** and add a comment indicating your opinion for the judges to review. It is possible for issues to be considered `0 (Non-critical)`.
+
 ## Respond to issues
 
 Label each finding as one of these:
+
 - `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it.")
 - `sponsor disputed`, meaning either: "We either not duplicate this issue" or "We disagree that this is an issue at all."
 - `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
 
-Add any necessary comments explaining your reasoning for this decision, noting that when the repo is open after all issues are mitigated, wardens will read these comments.
+Note that it isn't necessary to dispute a finding in order to suggest it should be considered of lower or higher severity.
+
+Add any necessary comments explaining your rationale for your evaluation of the issue. Note that when the repo is public after all issues are mitigated, wardens will read these comments.
 
 ## Share your mitigation of findings
 
