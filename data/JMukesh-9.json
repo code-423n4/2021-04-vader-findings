@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "G",
+  "title": "isMember(address member)  function never been called in another function to check wether given address is member or not",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/9"
+}
