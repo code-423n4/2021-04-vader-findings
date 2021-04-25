@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Result of ERC20 transfer not checked",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/22"
+}
