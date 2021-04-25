@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Optimization possible at _transfer",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/26"
+}
