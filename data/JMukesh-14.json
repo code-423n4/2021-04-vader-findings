@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "G",
+  "title": "Public function that could be declared external",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/14"
+}
