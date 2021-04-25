@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "2",
+  "title": "wrong logic check in  in _getFee(address, address, uint){}",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/11"
+}
