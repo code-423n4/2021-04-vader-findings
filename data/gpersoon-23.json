@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Circumvent several checks",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/23"
+}
