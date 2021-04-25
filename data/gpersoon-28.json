@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Pay double fees in addExcluded of Vether.sol",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/28"
+}
