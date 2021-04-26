@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "toastedsteaksandwich",
+  "address": "0xD8f6877aec57C3d70F458C54a1382dDc90522E7D",
+  "risk": "1",
+  "title": "ERC20 race condition for allowances",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/35"
+}
