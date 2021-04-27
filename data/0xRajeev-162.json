@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "0xRajeev",
+  "address": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+  "risk": "3",
+  "title": "changeDAO should be a two-step process in Vader.sol",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/162"
+}
