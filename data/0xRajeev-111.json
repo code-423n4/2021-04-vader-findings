@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "0xRajeev",
+  "address": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+  "risk": "G",
+  "title": "Gas savings by moving inited bool state variable next to an address state variable declaration in Pools.sol",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/111"
+}
