@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "a_delamo",
+  "address": "0x69e833869584D7e468751ED5e7d23ADAdCAA3D00",
+  "risk": "1",
+  "title": "Missing zero address validation in the init methods",
+  "issueId": 245,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/245"
+}
