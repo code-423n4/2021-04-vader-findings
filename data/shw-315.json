@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "3",
+  "title": "Unrestricted access to `lockUnits` allows an attacker to steal funds from any user.",
+  "issueId": 315,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/315"
+}
