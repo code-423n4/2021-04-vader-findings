@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "paulius.eth",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "3",
+  "title": "Anyone can set mapTokenMember_Units",
+  "issueId": 278,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/278"
+}
