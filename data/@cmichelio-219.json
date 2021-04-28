@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "@cmichelio",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Interest debt is capped after a year",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/219"
+}
