@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "3",
+  "title": "Anyone Can Avoid All Vether Transfer Fees By Adding Their Address to the Vether ExcludedAddresses List.",
+  "issueId": 189,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/189"
+}
