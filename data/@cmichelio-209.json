@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "@cmichelio",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Wrong slippage protection on Token -> Token trades",
+  "issueId": 209,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/209"
+}
