@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "1",
+  "title": "Anyone Can Call Init() and Lock It Forever For Attack.sol, DAO.sol, Factory.sol, Pools.sol, Router.sol, Vault.sol, and Vader.sol",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/201"
+}
