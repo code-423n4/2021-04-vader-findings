@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "s1m0",
+  "address": "0x9b3E9e3E4a174d59279FC7cd268e035992412384",
+  "risk": "1",
+  "title": "The flashProof check can be bypassed at the start",
+  "issueId": 259,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/259"
+}
