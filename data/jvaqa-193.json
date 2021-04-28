@@ -1,0 +1,9 @@
+{
+  "contest": "5",
+  "handle": "jvaqa",
+  "address": "0xEcb66CC9e366aF7351DbAA52Fa0b290200eC7532",
+  "risk": "1",
+  "title": "The Calculation For nextEraTime Drifts, Causing Eras To Occur Further And Further Into The Future",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2021-04-vader-findings/issues/193"
+}
