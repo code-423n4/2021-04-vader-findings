@@ -1,3 +1,11 @@
+---
+sponsor: "Vader Protocol"
+slug: "2021-04-vader"
+date: "2021-06-14"
+title: "Vader Protocol"
+findings: "https://github.com/code-423n4/2021-04-vader-findings"
+contest: 5
+---
 
 # Overview
 
